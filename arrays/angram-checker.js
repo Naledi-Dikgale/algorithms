@@ -4,7 +4,8 @@
 // For example:
 // friend and Finder are anagrams.
 // The Morse Code and Here come dots are anagrams as well.
-// Note: You'll need to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for anagrams.
+// Note: You'll need to remove all non-alphanumeric characters
+// (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for anagrams.
 
 module.exports = function (stringA, stringB) {
   return (
