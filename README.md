@@ -11,9 +11,7 @@ Welcome to my daily coding playground! This repository is a collection of daily 
    - [Sorting](#sorting)
    - [Searching](#searching)
    - [Dynamic Programming](#dynamic-programming)
-   - [Greedy Algorithms](#greedy-algorithms)
-   - [Graph Algorithms](#graph-algorithms)
-3. [Data Structures](#data-structures)
+3. - [Data Structures](#data-structures)
    - [Arrays](#arrays)
    - [Linked Lists](#linked-lists)
    - [Stacks](#stacks)
@@ -42,11 +40,6 @@ Welcome to my daily coding playground! This repository is a collection of daily 
 
 - [Fibonacci Sequence](#)
 - [Knapsack Problem](#)
-
-### Greedy Algorithms
-
-- [Dijkstra's Algorithm](#)
-- [Prim's Algorithm](#)
 
 ### Graph Algorithms
 
