@@ -40,3 +40,24 @@
 // 0 <= nums.length <= 1000
 // 0 <= nums[i] <= 1000
 // 0 <= init <= 1000
+
+/**
+ *  * @param {number[]} nums
+ *  * @param {Function} fn
+ *  * @param {number} init
+ *  * @return {number}
+ *  */
+var reduce = function (nums, fn, init) {
+  // If the array is empty, return the initial value
+  if (nums.length === 0) {
+    return init;
+  }
+  // Initialize the accumulator to the initial value
+  let result = init;
+  // Iterate through the array and apply the reducer function
+  for (let i = 0; i < nums.length; i++) {
+    result = fn(result, nums[i]);
+  }
+  // Return the final accumulated value
+  return result;
+};
