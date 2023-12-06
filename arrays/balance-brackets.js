@@ -22,5 +22,7 @@
   
   const inputArray = [1, 0, 2, 0, 3, 0, 4, 5, 0];
   const resultArray = moveZerosToEnd(inputArray);
-  console.log(resultArray); // Output: [1, 2, 3, 4, 5, 0, 0, 0, 0]
+  console.log(resultArray); 
+  
+  // Output: [1, 2, 3, 4, 5, 0, 0, 0, 0]
   
