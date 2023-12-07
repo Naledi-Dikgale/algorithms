@@ -86,7 +86,7 @@ I welcome contributions from the community! If you have an algorithm or data str
 
 ## Daily Log
 
-Explore my daily coding journey in the [daily log file](DailyLog.md). Each entry includes the algorithm or data structure tackled, along with thoughts and challenges faced during implementation.
+Explore my daily coding journey. Each entry includes the algorithm or data structure tackled.
 
 ## License
 
