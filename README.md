@@ -10,7 +10,6 @@ Welcome to my daily coding playground! This repository is a collection of daily 
 2. [Algorithms](#algorithms)
    - [Sorting](#sorting)
    - [Searching](#searching)
-   - [Dynamic Programming](#dynamic-programming)
 3. - [Data Structures](#data-structures)
    - [Arrays](#arrays)
    - [Linked Lists](#linked-lists)
@@ -35,11 +34,6 @@ Welcome to my daily coding playground! This repository is a collection of daily 
 
 - [Linear Search](#)
 - [Binary Search](#)
-
-### Dynamic Programming
-
-- [Fibonacci Sequence](#)
-- [Knapsack Problem](#)
 
 ### Graph Algorithms
 
