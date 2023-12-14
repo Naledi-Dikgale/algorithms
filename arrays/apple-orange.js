@@ -16,3 +16,26 @@
 // The third line contains two space-separated integers denoting the respective values of  and .
 // The fourth line contains  space-separated integers denoting the respective distances that each apple falls from point .
 // The fifth line contains  space-separated integers denoting the respective distances that each orange falls from point .
+
+function countApplesAndOranges(s, t, a, b, apples, oranges) {
+  // Write your code here
+  let appleCount = 0;
+  let orangeCount = 0;
+
+  apples.forEach(apple => {
+      const applePosition = a + apple;
+      if (applePosition >= s && applePosition <= t) {
+          appleCount++;
+      }
+  });
+
+  oranges.forEach(orange => {
+      const orangePosition = b + orange;
+      if (orangePosition >= s && orangePosition <= t) {
+          orangeCount++;
+      }
+  });
+
+  console.log(appleCount);
+  console.log(orangeCount);
+}
