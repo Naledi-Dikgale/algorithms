@@ -1,13 +1,5 @@
-
-// ## How to solve this challenge?
-
-// 1. Read the "Challenge description" below.
-// 2. Make changes to the [challenge.js](./challenge.js) file.
-// 3. Commit your changes.
-// 4. Wait for the result of the "GitHub Classroom Workflow" action. If it is green - congratulations, you solved this challenge! If not - try again!
-// 5.  *You can watch an example of how to solve a challenge in the video linked in the theoretical lesson preceding this challenge.*
-
 // ## Challenge description
+
 // ### A Tree in an Array
 // To store a Binary Tree in an Array, we just need to determine the order  that we store the Nodes in. A good order is "breadth-first" where we  store the items in order top-down and left-to-right of the tree.
 
