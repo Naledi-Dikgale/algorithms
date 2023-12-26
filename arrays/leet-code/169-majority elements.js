@@ -7,7 +7,6 @@ class Solution {
           // If count is 0, set the current element as the majority.
           // If the current element is equal to the majority, increment count. Otherwise, decrement count.
           // After the first pass, the majority is a potential majority element.
-  
           // Perform a second pass through the array to count the occurrences of the majority. If it occurs more than ⌊n / 2⌋ times, return the majority. Otherwise, there is no majority element.
           
           let majority = nums[0];
