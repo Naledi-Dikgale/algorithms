@@ -83,6 +83,7 @@ I welcome contributions from the community! If you have an algorithm or data str
 Explore my daily coding journey. Each entry includes the algorithm or data structure tackled.
 
 👤 **Author1**
+
  *[NALEDI DIKGALE]*
 
 - GitHub: [@githubhandle](https://github.com/Naledi-Dikgale)
