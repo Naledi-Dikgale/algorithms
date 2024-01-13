@@ -87,7 +87,7 @@ Explore my daily coding journey. Each entry includes the algorithm or data struc
  *[NALEDI DIKGALE]*
 
 - GitHub: [@githubhandle](https://github.com/Naledi-Dikgale)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/naledi-dikgale-068423159/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/naledi-dikgale/)
 - Website: [@Naledi](https://naledi.netlify.app/)
 
 ## License
