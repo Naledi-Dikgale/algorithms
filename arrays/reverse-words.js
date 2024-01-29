@@ -25,4 +25,6 @@ function reverseWords(str) {
 // Test the function
 const inputString = "hello world";
 const reversedString = reverseWords(inputString);
-console.log(reversedString); // Output: "world hello"
+console.log(reversedString); 
+
+// Output: "world hello"
