@@ -1,3 +1,5 @@
+// This is a function called updateInventory that takes two arrays as input: arr1 and arr2.
+
 function updateInventory (arr1, arr2) {
   const result = arr2;
   
