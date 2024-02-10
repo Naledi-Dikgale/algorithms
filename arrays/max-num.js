@@ -6,6 +6,7 @@
 // Return max.
 
 // Return null for empty array
+
 function findMax(arr) {
   if (arr.length === 0) {
       return null; 
