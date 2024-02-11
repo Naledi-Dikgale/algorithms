@@ -13,16 +13,16 @@ function findMax(arr) {
   }
 
    // Initialize max to negative infinity
-  let max = -Infinity;
 
+  let max = -Infinity;
   for (let i = 0; i < arr.length; i++) {
       if (arr[i] > max) {
           max = arr[i];
       }
   }
 
-   // Update max if current element is greater
-    // Return the maximum number
+  // Update max if current element is greater
+  // Return the maximum number
   return max;
 }
 
