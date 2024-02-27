@@ -2,7 +2,7 @@
 // a given string while preserving the order of characters within each word.
 // Function should take a single string as input and return.
 // a new string with the words reversed.
-// For example, given the input string "hello world", your function should return "world hello".
+// For example, given the input string "hello world", the function should return "world hello".
 
 // Solution 1
 
@@ -27,4 +27,4 @@ const inputString = "hello world";
 const reversedString = reverseWords(inputString);
 console.log(reversedString); 
 
-// Output: "world hello"
+// Expected Output: "world hello"
