@@ -1,3 +1,13 @@
+// The function should iterate through the input array and separate zero
+// and non-zero elements into different arrays.
+// It should then concatenate these arrays, placing all zero elements at the end.
+// The order of non-zero elements should remain unchanged.
+// Edge Cases:
+// The function should handle empty arrays by returning an empty array.
+// If the input array contains only zeros, the function should return the array unchanged.
+
+
+// My solution:
 
 // Initialize two arrays to hold non-zero and zero elements
 // Loop through the input array
