@@ -7,4 +7,15 @@
 // candles = [4,4,1,3]
 // The maximum height candles are 4 units high. There are 2 of them, so return 2.
 
+// Function Description
+// Complete the function birthdayCakeCandles in the editor below.
+// Complete the function birthdayCakeCandles in the editor below.
+
+
+function birthdayCakeCandles(candles) {
+  let max = Math.max(...candles);
+  let count = candles.filter(candle => candle === max).length;
+  return count;
+}
+
 
