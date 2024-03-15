@@ -13,9 +13,16 @@
 
 
 function birthdayCakeCandles(candles) {
-  let max = Math.max(...candles);
-  let count = candles.filter(candle => candle === max).length;
-  return count;
+  // Find the maximum height of the candles
+  const maxHeight = Math.max(...candles);
+
+  // Count how many candles have the maximum height
+  const tallestCandlesCount = candles.filter(candle => candle === maxHeight).length;
+
+  return tallestCandlesCount;
 }
+
+
+
 
 
