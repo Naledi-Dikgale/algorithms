@@ -43,12 +43,6 @@ function readLine() {
  */
 
 function birthdayCakeCandles(candles) {
-    // Write your code here
-
-}
-
-
-function birthdayCakeCandles(candles) {
   // Find the maximum height of the candles
   const maxHeight = Math.max(...candles);
 
@@ -57,7 +51,6 @@ function birthdayCakeCandles(candles) {
 
   return tallestCandlesCount;
 }
-
 
 function main() {
   const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
@@ -72,5 +65,3 @@ function main() {
 
   ws.end();
 }
-
-
